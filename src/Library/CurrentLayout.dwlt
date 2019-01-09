@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -90,8 +90,8 @@ MonoBehaviour:
     y: 0
     width: 351
     height: 492
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -145,7 +145,7 @@ MonoBehaviour:
     y: 0
     width: 1600
     height: 817
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -254,8 +254,8 @@ MonoBehaviour:
     y: 0
     width: 824
     height: 492
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -436,18 +436,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts
+    - Assets/Scripts/InterfaceScripts
   m_ViewMode: 1
   m_StartGridSize: 73
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Scripts/InterfaceScripts
   m_LastFoldersGridSize: 73
   m_LastProjectPath: C:\Users\Natusya\Desktop\Match3Test\src
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 5a260000
-    m_LastClickedID: 9818
+    m_SelectedIDs: 36260000
+    m_LastClickedID: 9782
     m_ExpandedIDs: 000000002c2600003c2600004c2600005a260000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -503,7 +503,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000606c0000c46c0000e84affffb8270000162800008e050000fa370000be2c0000c02c0000a82f0000c62c0000fc2b00008c2700003c46fcffd08cfbff42310000e42c000002bdfaffba2b0000c02a0000445300004a53000050530000565300005c530000625300006e530000685300003e53000032530000385300002c530000a6530000a05300009a530000945300007a53000080530000745300008c530000865300001e4200001468000094270000142b0000e6280000b6420000f2400000843e0000f0270000204ffaffd0e9f9ff46d5f9ffac290000963a00005a2900003e2f00009a290000442f00005095feff9848fcff003100009a2f0000a02f0000806afffffe250000202600000826000026260000162600000c260000383000007e2600005a2600008626000062260000b026000008300000ba360000a62600006a2600006c26000000000000c2260000b226000070260000782600002a2b00003e12ffffc0270000cc270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -592,9 +592,9 @@ MonoBehaviour:
     height: 471
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: 50070000
     m_LastClickedID: 0
-    m_ExpandedIDs: a0f7ffff44f8ffff36f9ffff1afcffff00000000
+    m_ExpandedIDs: 1afcffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
